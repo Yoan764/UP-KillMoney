@@ -1,0 +1,6 @@
+name: UP-Killmoney
+version: 1.0
+api: 5.0.0
+main: yoan\up\Loader
+author: Yoan764
+website: https://github.com/Yoan764

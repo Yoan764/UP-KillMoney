@@ -1,0 +1,9 @@
+##Fix / Random
+Reward-type: "Fix"
+##Fix Reward
+Reward-fix-amount: "10"
+##Random Reward
+Reward-random-min: "10"
+Reward-random-max: "20"
+##{amount} = Reward number
+Reward-message: "§l§f[§6UP-Killmoney§f]§r§f Vous avez gagnez §6{amount}§f."
